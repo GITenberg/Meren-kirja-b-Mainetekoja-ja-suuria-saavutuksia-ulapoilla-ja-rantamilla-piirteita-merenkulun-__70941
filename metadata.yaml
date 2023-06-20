@@ -1,0 +1,29 @@
+_repo: Meren-kirja-b-Mainetekoja-ja-suuria-saavutuksia-ulapoilla-ja-rantamilla-piirteita-merenkulun-__70941
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Joutsen, O. A. (Otto Aleksanteri)
+    alias: Joutsen, Otto Aleksanteri
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+    wikipedia: https://fi.wikipedia.org/wiki/O._A._Joutsen
+description: ''
+gutenberg_issued: '2023-06-08'
+identifiers:
+  gutenberg: '70941'
+language: fi
+pgterms:marc905: 20230607004536joutsen
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aFinland :$bK. J. Gummerus Oy, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Meren kirja : $b Mainetekoja ja suuria saavutuksia ulapoilla ja rantamilla,
+  piirteitä merenkulun historiasta ja laivamuotojen kehityksestä'
+url: http://www.gutenberg.org/ebooks/70941

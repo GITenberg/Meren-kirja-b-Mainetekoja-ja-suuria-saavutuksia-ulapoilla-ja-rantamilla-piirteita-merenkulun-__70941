@@ -1,5 +1,8 @@
 _repo: Meren-kirja-b-Mainetekoja-ja-suuria-saavutuksia-ulapoilla-ja-rantamilla-piirteita-merenkulun-__70941
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Joutsen, O. A. (Otto Aleksanteri)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33476
     wikipedia: https://fi.wikipedia.org/wiki/O._A._Joutsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70941#Meren-kirja-b-Mainetekoja-ja-suuria-saavutuksia-ulapoilla-ja-rantamilla-piirteita-merenkulun-_
 gutenberg_issued: '2023-06-08'
 identifiers:
   gutenberg: '70941'
